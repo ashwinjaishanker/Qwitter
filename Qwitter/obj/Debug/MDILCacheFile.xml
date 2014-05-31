@@ -1,0 +1,13 @@
+﻿<xapCache source="C:\Users\Ashwin\Documents\Visual Studio 2013\Projects\Qwitter\Qwitter\Bin\Debug\Qwitter_Debug_AnyCPU.xap" wasSigned="False" wasTritonized="False" certificateThumbprint="" TimeStampUrl="" signKeyFile="" signKeyPassword="" lastWriteTime="28/04/2014 20:34:19">
+  <file source="C:\Users\Ashwin\Documents\Visual Studio 2013\Projects\Qwitter\Qwitter\obj\Debug\Qwitter.dll" archivePath="Qwitter.dll" lastWriteTime="28/04/2014 20:34:18" />
+  <file source="C:\Users\Ashwin\Documents\Visual Studio 2013\Projects\Qwitter\Qwitter\Assets\AlignmentGrid.png" archivePath="Assets\AlignmentGrid.png" lastWriteTime="24/04/2014 03:29:38" />
+  <file source="C:\Users\Ashwin\Documents\Visual Studio 2013\Projects\Qwitter\Qwitter\Assets\Background.jpg" archivePath="Assets\Background.jpg" lastWriteTime="24/04/2014 05:40:14" />
+  <file source="C:\Users\Ashwin\Documents\Visual Studio 2013\Projects\Qwitter\Qwitter\Assets\Tiles\FlipCycleTileLarge.png" archivePath="Assets\Tiles\FlipCycleTileLarge.png" lastWriteTime="24/04/2014 03:29:38" />
+  <file source="C:\Users\Ashwin\Documents\Visual Studio 2013\Projects\Qwitter\Qwitter\Assets\Tiles\FlipCycleTileSmall.png" archivePath="Assets\Tiles\FlipCycleTileSmall.png" lastWriteTime="24/04/2014 03:29:38" />
+  <file source="C:\Users\Ashwin\Documents\Visual Studio 2013\Projects\Qwitter\Qwitter\Assets\Tiles\IconicTileMediumLarge.png" archivePath="Assets\Tiles\IconicTileMediumLarge.png" lastWriteTime="24/04/2014 03:29:38" />
+  <file source="C:\Users\Ashwin\Documents\Visual Studio 2013\Projects\Qwitter\Qwitter\Assets\Tiles\IconicTileSmall.png" archivePath="Assets\Tiles\IconicTileSmall.png" lastWriteTime="24/04/2014 03:29:38" />
+  <file source="C:\Users\Ashwin\Documents\Visual Studio 2013\Projects\Qwitter\Qwitter\Bin\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="24/04/2014 03:29:41" />
+  <file source="C:\Users\Ashwin\Documents\Visual Studio 2013\Projects\Qwitter\Qwitter\Bin\Debug\Assets\ApplicationIcon.png" archivePath="Assets\ApplicationIcon.png" lastWriteTime="24/04/2014 03:29:38" />
+  <file source="C:\Users\Ashwin\Documents\Visual Studio 2013\Projects\Qwitter\Qwitter\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png" archivePath="Assets\Tiles\FlipCycleTileMedium.png" lastWriteTime="24/04/2014 03:29:38" />
+  <file source="C:\Users\Ashwin\Documents\Visual Studio 2013\Projects\Qwitter\Qwitter\Bin\Debug\Properties\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="24/04/2014 03:29:41" />
+</xapCache>
